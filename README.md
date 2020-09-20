@@ -1,1 +1,0 @@
-# jetbrains_academy_regex
